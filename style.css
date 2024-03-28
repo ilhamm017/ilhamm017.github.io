@@ -35,8 +35,8 @@ body {
   }
 
   .profile-image {
-    width: 100px;
-    height: 100px;
+    width: 10%;
+    height: 10%;
     border-radius: 50%;
     margin: 0 auto;
     display: block;
